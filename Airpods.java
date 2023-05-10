@@ -5,7 +5,7 @@ public class Airpods extends Bluetooth {
 		System.out.println("SAMSUNG");
 	}
 	public void price() {
-		System.out.println(500);
+		System.out.println(1000);
 	}
 	public void colour() {
 		System.out.println("black");
